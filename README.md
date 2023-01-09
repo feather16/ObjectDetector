@@ -1,4 +1,4 @@
-# ObjectDetector
+# object-detector
 
 物体検出を行う機械学習モデルである[YOLOv3](https://github.com/YunYang1994/TensorFlow2.0-Examples/tree/master/4-Object_Detection/YOLOV3)をGUIで使えるようにしたプログラムです。
 
